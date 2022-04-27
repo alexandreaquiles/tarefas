@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body {
+    background: #e8e8e8;
+}
+
 .cabecalho {
     background-color: #0082c7;
     display: flex;
@@ -22,7 +26,6 @@
 }
 
 .mural {
-    background: #e8e8e8;
     padding: 1em 10%;
 }
 
